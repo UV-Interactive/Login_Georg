@@ -16,10 +16,10 @@ import java.io.*;
 import java.net.*;
 
 
-
-
 public class MainActivity extends AppCompatActivity {
 
+
+    //Änderung von Markus!
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
